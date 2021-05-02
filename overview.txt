@@ -1,0 +1,11 @@
+# Face Recognizer
+
+1. Face Detection
+
+2. Data Gathering
+
+3. Training
+
+4. Actually Recognizing
+
+
