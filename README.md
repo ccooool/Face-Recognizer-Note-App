@@ -1,7 +1,7 @@
 
 
 
-<h1>__How to use__<h1>
+<h1>How to use<h1>
 
 <h3>Section 1: Training<h3>
 
@@ -21,6 +21,6 @@ Step 8: After you pass you can use the notes app and view
 
 Step 9: Run the file "recognize.py"
 
-<h1>__How I built it__<h1>
+<h1>How I built it<h1>
 I used the opencv library to use face detection and recognition.
 For the notes app I used Tkinter to create the interface of the notes app.
