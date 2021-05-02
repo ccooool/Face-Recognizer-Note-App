@@ -3,7 +3,7 @@
 
 <h1>How to use<h1>
 
-<h3>Section 1: Training<h3>
+<h2>Section 1: Training<h2>
 
 Step 1: cd into face_recognize 
 
@@ -14,7 +14,7 @@ Step 3: Type in an id
 Step 4: Make sure your face is in the frame of your camera 
 
 
-<h3>Section 2: Running the notes app<h3>
+<h2>Section 2: Running the notes app<h2>
 
 Step 5: Inside main.py change the names to your name  
 
@@ -25,7 +25,7 @@ Step 7: The terminal should ask you if you want to open previous notes. type "Y"
 Step 8: After you pass you can use the notes app and view 
 
 
-<h3>Section 3: Running the recognizer without the notes app<h3>
+<h2>Section 3: Running the recognizer without the notes app<h2>
 
 Step 9: Run the file "recognize.py"
 
