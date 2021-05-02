@@ -19,6 +19,7 @@ def cli():
     if note_input == "Y" or note_input == "y":
         # note_input = input("Which note do you want to open?")
         # do security
+        
         name = input("Are you Carter lack? (Y/N")
         if name != "Y" or note_input != "y":
             security_check = Recognizer().recognize_carter()

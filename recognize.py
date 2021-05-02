@@ -106,4 +106,6 @@ class Recognizer():
         cam.release()
         cv2.destroyAllWindows()
 
-# Recognizer().recognize()
+
+if __name__ == "__main__":
+    Recognizer().recognize()
